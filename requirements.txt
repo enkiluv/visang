@@ -1,0 +1,6 @@
+altair>5
+openai==1.46.0
+pandas==1.5.3
+Pillow==9.5.0
+scipy==1.10.1
+streamlit==1.38.0
